@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0138A4B8-5224-46C5-B94C-AC26D6D2AD4B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C8021EC-23C0-4872-A9BB-02091951B951"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokedex2/PokemonListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3C8021EC-23C0-4872-A9BB-02091951B951 - 3d0e5e36a9449bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pokedex2.PokemonListViewModel.loadData() -&gt; ()"
+                  moduleName = "Pokedex2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diplomado/Desktop/Pokedex2/Pokedex2/PokemonListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1008">
+               </Location>
+               <Location
+                  uuid = "3C8021EC-23C0-4872-A9BB-02091951B951 - 3d0e5e36a9449bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pokedex2.PokemonListViewModel.loadData() -&gt; ()"
+                  moduleName = "Pokedex2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diplomado/Desktop/Pokedex2/Pokedex2/PokemonListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+               <Location
+                  uuid = "3C8021EC-23C0-4872-A9BB-02091951B951 - f93b897ef5d1ce94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pokedex2.PokemonListViewModel.loadData() -&gt; ()"
+                  moduleName = "Pokedex2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diplomado/Desktop/17-nov2023/Pokedex2/Pokedex2/PokemonListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06C852B1-F2E4-4372-B15A-1B3F5B9ECD49"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokedex2/PokemonListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
